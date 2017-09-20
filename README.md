@@ -14,4 +14,4 @@ then, I use nano to create environmental variable PUI2017.
 ![Alt text](Screenshot2.jpeg)
 
 ## Assignment 3
-This is my [notebook](PUI2017_yt1369/HW1_yt1369/HW1_reproducible_distributions.ipynb).
+This is my [notebook](https://github.com/yixuantang/PUI2017_yt1369/blob/master/HW1_yt1369/HW1_reproducible_distributions.ipynb).
