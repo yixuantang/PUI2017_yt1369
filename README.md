@@ -8,7 +8,7 @@ My own repo is [here](https://github.com/yixuantang/yixuantang/blob/master/myfir
 
 First,  I use mkdir to create a directory named PUI2017 on my computer;
 
-then, I use nano to create environmental variable PUI2017
+then, I use nano to create environmental variable PUI2017.
 
 ![Alt text](Screenshot1.jpeg)
 ![Alt text](Screenshot2.jpeg)
