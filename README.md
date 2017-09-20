@@ -1,6 +1,6 @@
 # PUI2017_yt1369
 ## Assignment 1
-My own repo is [here](yixuantang/myfirstfile.txt) and I forked [gittest_lz1714](https://github.com/lingyielia/gittest_lz1714.git).
+My own repo is [here](https://github.com/yixuantang/yixuantang/blob/master/myfirstfile.txt) and I forked [gittest_lz1714](https://github.com/lingyielia/gittest_lz1714.git).
 
 ## Assignment 2
 #How I set up my environment
