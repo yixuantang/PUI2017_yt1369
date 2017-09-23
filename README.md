@@ -1,10 +1,17 @@
 # PUI2017_yt1369
+## Assignment 1
+My own repo is [here](https://github.com/yixuantang/yixuantang/blob/master/myfirstfile.txt) and I forked [gittest_lz1714](https://github.com/lingyielia/gittest_lz1714.git).
+
+## Assignment 2
 #How I set up my environment
 
 
 First,  I use mkdir to create a directory named PUI2017 on my computer;
 
-then, I use nano to create environmental variable PUI2017
+then, I use nano to create environmental variable PUI2017.
 
 ![Alt text](Screenshot1.jpeg)
 ![Alt text](Screenshot2.jpeg)
+
+## Assignment 3
+This is my [notebook](https://github.com/yixuantang/PUI2017_yt1369/blob/master/HW1_yt1369/HW1_reproducible_distributions.ipynb).
