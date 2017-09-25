@@ -22,7 +22,7 @@ if __name__ == "__main__":
     businfo = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
     busnum = np.size(businfo)
 
-    bus_info = pd.DataFrame(columns=['Latitude', 'Longitude', 'Stop Name', 'Stop Status'], index = [0])
+    bus_info = pd.DataFrame(columns=['Latitude', 'Longitude', 'Stop Name', 'Stop Status'], index=[0])
 
     for i in range(busnum):
 
@@ -42,7 +42,7 @@ if __name__ == "__main__":
             stopname = 'N/A'
             stopstatus = 'N/A'
 
-        df = pd.DataFrame({'Latitude':latitude, 'Longitude':longitude, 'Stop Name':stopname, 'Stop Status':stopstatus}, index = [0])
+        df = pd.DataFrame({'Latitude':latitude, 'Longitude':longitude, 'Stop Name':stopname, 'Stop Status':stopstatus}, index=[0])
         bus_info = bus_info.append(df)
         df = df.reset_index(drop=True)
     bus_info.to_csv(filename)
