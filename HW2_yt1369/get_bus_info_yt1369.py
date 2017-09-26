@@ -3,11 +3,11 @@ import requests
 import json
 import numpy as np
 import pandas as pd
+import csv
 
 if __name__ == "__main__":
     key = sys.argv[1]
     ref = sys.argv[2]
-    filename = sys.argv[3]
 
     def geturl(key, ref):
         url1 = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key="
@@ -21,9 +21,13 @@ if __name__ == "__main__":
     data = geturl(key, ref)
     businfo = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
     busnum = np.size(businfo)
-
+    
     bus_info = pd.DataFrame(columns=['Latitude', 'Longitude', 'Stop Name', 'Stop Status'], index=[0])
 
+    filename = sys.argv[3]
+    f = open(filename, 'wb')
+    writer = csv.writer(f)
+    writer.writerow(["Latitude", "Longitude", "Stop Name", "Stop Status"])
     for i in range(busnum):
 
         longitude = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
@@ -42,7 +46,11 @@ if __name__ == "__main__":
             stopname = 'N/A'
             stopstatus = 'N/A'
 
-        df = pd.DataFrame({'Latitude':latitude, 'Longitude':longitude, 'Stop Name':stopname, 'Stop Status':stopstatus}, index=[0])
-        bus_info = bus_info.append(df)
-        df = df.reset_index(drop=True)
-    bus_info.to_csv(filename)
+        writer.writerow([latitude, longitude, stopname, stopstatus])
+
+    f.close()
+    r = open(filename, 'rd')
+    reader = csv.reader(r)
+    for row in reader:
+        print(row)
+    r.close()
