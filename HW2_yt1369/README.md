@@ -9,7 +9,7 @@ First,  I use the API key to access to the data,
 then I design the script to pull the current json file and get the information about the next bus stop of specific bus line.
 The script takes 3 arguments: API key, bus line and output file name. 
 
-## Assignment 3
+## Assignment 3: Read CSV Files with Pandas
 This is my [notebook](https://localhost:8000/user/yt1369/notebooks/homedirs/yt1369/Assignment3_Read_CSVfiles_yt1369.ipynb).
 I used pandas to accomplish the work.
 
