@@ -8,7 +8,7 @@ This is my [notebook](https://localhost:8000/user/yt1369/notebooks/homedirs/yt13
 ## Assignment 2: Set up the work for data-driven inference based on CitiBike data. 
 I choose the July 2017 trips data from citibike website, and I decide to look into the age aspect.
 My question is: Is post-90s more likely to use citibike for commute?
-To achieve this answer, I have group work with Cheng Ma, Vivian and Zhiao Zhou.
+To achieve the answer of this question, I have group work with Cheng Ma, Vivian and Zhiao Zhou.
 This is my [notebook](https://localhost:8000/user/yt1369/notebooks/homedirs/yt1369/PUI_ASSIGNMENT/Assignment2_yt1369.ipynb).
 
 ## Assignment 3: Finish z-test lab and turn it in as a notebook
