@@ -3,6 +3,7 @@
 ## Assignment 1: Show Bus Location
 First, I apply API key through MTA website;
 then I write script to read the json file and get a csv output about the bus line, active bus amounts and bus location. 
+(I indeed submit this homework on time, however I incautiously delete this file when I upload the HW3, so I revert the file in Oct 4th)
 
 ## Assignment 2: Get Bus Info
 First,  I use the API key to access to the data,
