@@ -1,11 +1,8 @@
 # PUI2017_yt1369
-## Homework1
 ## comments: 
 a. the Null and alternative hypotheses are formulated correctly.
 
 b. the data jss895 choosen supports the project: the gender data answered the question he raised in the beginning: Does the average trip time for citibike is affected by the gender of the person that made the trip? jss895 also extracted the tripduration-gender data and droped the extreme data to make the dataset reasonable.
 
-c. the sample is far larger than 30, according to the flowchart, z-test shoule be used to test this hyphothesis.
-First, the data for pre-90s and post-90s all from the same trying to compare and find the difference from different populations, as non-parametric, it has one variable as usage quantity of the bike, and two categories(pre and post-90s)).The data is unpaired, and we can easily tell the sample is way over 30, so according to the flowchart we should use z-test to test this hypothesis.
-Write your comments, suggestions, and suggested an appropriate statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md. Suggest variations on the question, if you think it may be made more interesting.
+c. the sample is far larger than 30 and it has ond variable and two categories(Female and male), according to the flowchart, z-test shoule be used to test this hyphothesis.
 
