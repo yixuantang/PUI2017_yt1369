@@ -1,4 +1,3 @@
-# PUI2017_yt1369
 ## comments: 
 a. the Null and alternative hypotheses are formulated correctly.
 
