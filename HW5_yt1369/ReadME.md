@@ -1,6 +1,1 @@
 
-| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **|
-|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
- MANOVA	| 1, Light On/Off	Dichotomous	9, larvae activities |	Continous	| 0	| N/A	| Do Zebrafish larvae display rich locomotor behaviour upon external stimulation? |	Locomotor activity before stimulation = Locomotor activity during/after stimulation	| 0.05 | [Statistical Analysis of Zebrafish Locomotor Response](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139521) 
- |||||||||  
-Correlation	| 1, eggs per gram of feces | Numerical | 1，The numbers of the worms| Numerical | 1, 1，	egg-positive or negative |  categorical | 	If the numbers of the worms correlated with the egg counts in human clonorchiasis | there was no significant positive  correlation between eggs per gram of feces and numbers of worms | 0.001 | [Correlation between Discharged Worms and Fecal Egg Counts in Human Clonorchiasis](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0001339) |
