@@ -1,9 +1,9 @@
-## Ninanrh Plot Review
+## ianxxiao Plot Review
 
 
-![Alt text](nina's_plot.png)
+![Alt text](xiao's_plot.png)
 
-Dear Nina,
+Hi Ian,
 
 I have reviewed your HW9 plot and here's some viewpoints and suggestions.
 
