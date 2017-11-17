@@ -1,5 +1,5 @@
 ## Ninanrh Plot Review
-**Delivery instruction**
+
 
 ![Alt text](nina's_plot.png)
 
