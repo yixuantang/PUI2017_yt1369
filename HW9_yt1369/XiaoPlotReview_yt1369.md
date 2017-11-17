@@ -2,10 +2,13 @@
 
 
 ![Alt text](xiao's_plot.png)
+Click [here](https://ianxxiao.carto.com/viz/0d56359f-68ec-4e61-ae6e-1ae8a8c9ee7e/public_map) to view interactive visualization in Carto
+
+
 
 Hi Ian,
 
-I have reviewed your HW9 plot and here's some viewpoints and suggestions.
+Your plot is super cool and I learnt a lot from it! Here's some viewpoints and suggestions.
 
 * CLARITY: 
 In your title I can understand that you want to display the frequency of heating complaints in NYC, especially for winter, however, the range of x axis is a little counfused to me, you started from October and ended to May, from Wikipedia, Winter is often defined to be the 3 months with the lowest average temperatures. This corresponds to the months of December, January and February in the Northern Hemisphere. I suggest present December, January and February only in this plot,if you want to show comparison of complaints increase or decrease, add two more months is enough.
