@@ -1,7 +1,9 @@
-## Assignment 1 Plot
+## Ninanrh Plot Review
 **Delivery instruction**
 
- Fore each plot create a markdown file (must have extension .md and be a markdown, not a notebook) in your HW9_<netID> (your netID) directory in your PUI2017_<netID> repository. Include the plot as an image that needs to rendered in your markdown file (if the visualization is interactive also include a link to the interactive version), and your review of the plot in English prose, full sentences. Please keep your reviews short: brevity is a quality! Keep each review to less than 250 words.  NOTE: UPLOAD ALL 3 REVIEWS IN YOUR HW9 FOLDER - HW9
+![Alt text](xiao's_plot.png)
+![Alt text](nina's_plot.png)
+Include the plot as an image that needs to rendered in your markdown file (if the visualization is interactive also include a link to the interactive version), and your review of the plot in English prose, full sentences. Please keep your reviews short: brevity is a quality! Keep each review to less than 250 words.  NOTE: UPLOAD ALL 3 REVIEWS IN YOUR HW9 FOLDER - HW9
 
 Also upload the review to their **HW8_<netID>** repository via Pull request. That means: you must make a fork of the classmate PUI2017_<netID> (their netID) repository (see instruction in the previous peer assignment homework), *git add* the review markdown to **your** fork of **their** PUI2017 repository, in HW7_<netID> (their netID), and *git commit* the review markdown. Then submit a pull request.  NOTE: ALSO UPLOAD EACH REVIEW ON THE CLASSMATE'S HW8 (NOT HW9) FOLDER.
 
