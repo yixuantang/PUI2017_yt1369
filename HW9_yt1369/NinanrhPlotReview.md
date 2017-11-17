@@ -3,26 +3,19 @@
 
 ![Alt text](nina's_plot.png)
 
-Your review of the plot in English prose, full sentences. Please keep your reviews short: brevity is a quality! Keep each review to less than 250 words.  NOTE: UPLOAD ALL 3 REVIEWS IN YOUR HW9 FOLDER - HW9
-
-Also upload the review to their **HW8_<netID>** repository via Pull request. That means: you must make a fork of the classmate PUI2017_<netID> (their netID) repository (see instruction in the previous peer assignment homework), *git add* the review markdown to **your** fork of **their** PUI2017 repository, in HW7_<netID> (their netID), and *git commit* the review markdown. Then submit a pull request.  NOTE: ALSO UPLOAD EACH REVIEW ON THE CLASSMATE'S HW8 (NOT HW9) FOLDER.
-
-**Content**
-
-Please be polite and constructive in your critique. You are trying to improve your classmate's work, and hopefully this will be an instructive experience for both you and your classmate. IMPORTANT: your grade for the plot peer review assignment will be based on the review, not on the plot you made. So be thoughtful and insightful!
-
 Dear Nina,
 
 I have reviewed your HW9 plot and here's some viewpoints and suggestions.
 
-* CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
-From Wikipedia, Winter is often defined by meteorologists to be the three calendar months with the lowest average temperatures. This corresponds to the months of December, January and February in the Northern Hemisphere.
+* CLARITY: 
+In your title I can understand that you want to display the frequency of heating complaints in NYC, especially for winter, however, the range of x axis is a little counfused to me, you started at October and ended in May, from Wikipedia, Winter is often defined to be the 3 months with the lowest average temperatures. This corresponds to the months of December, January and February in the Northern Hemisphere. I suggest present December, January and February only in this plot,if you want to show comparison of complaints increase or decrease, add two more months is enough. In general, this plot is readable.
 
+* ESTHETIC: Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
+I saw you did good job to pick the color of your plot, the dark blue really makes me feel I'm very cold in winter becasue of the poor heating system. From this plot one can easily tell that January suffers highest heating complaints from 2010 - 2016.
 
-❓ESTHETIC: judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
+* HONESTY: 
+This plot honestly reproducing the 311 data from 2010-2016.
 
-❓HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
+Lastly, one suggestions here, add unit or title to the color bar so people can easily tell the meaning of the numbers.
 
-❓SUGGEST IMPROVEMENTS TO EACH PLOT.
-
-
+Yixuan Tang
