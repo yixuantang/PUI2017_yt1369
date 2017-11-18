@@ -19,6 +19,7 @@ The color map you used is suitable and readable, after zoom out in Carto, I can 
 * HONESTY: 
 In your notebook, you used LL84 and Pluto data from 2012 to 2016, and this plot honestly reproduced the data you processed.
 Lastly, one suggestions is, since you only select the multifamily type building in your dataset, you should clarify that this is a multifamily building map, and remove the guide question "3) What types of buildings are they" in your legend.
+
 In conclusion, your visualization is readable and meaningful, hope the suggestions above are useful in improving your plot.
 
 Your classmate,
