@@ -23,4 +23,5 @@ Lastly, one suggestions is, since you only select the multifamily type building 
 In conclusion, your visualization is readable and meaningful, hope the suggestions above are useful in improving your plot.
 
 Your classmate,
+
 Yixuan Tang
