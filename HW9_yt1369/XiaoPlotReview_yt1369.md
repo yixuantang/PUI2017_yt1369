@@ -14,7 +14,7 @@ Your plot is super cool and I learnt a lot from it! Here's some viewpoints and s
 The legend in your plot clearly guide me what I can read from this map, once I open the carto map and move cursor on each dot, it will automatically presents the location, age, EUI, type and total units of each building.
 
 * ESTHETIC: 
-The color map you used is suitable and readable, after zoom out in Carto, I can easily read that Manhattan midtown and uptown have most oldest multifamily buildings. But if you want to present "1) Where are the older buildings in NYC?", you should also plot other building types, otherwise this map would be misleading.
+The color map you used is suitable and readable, after zoom out on Carto, I can easily read that Manhattan midtown and uptown have most oldest multifamily buildings. But if you want to present "1) Where are the older buildings in NYC?", you should also plot other building types, otherwise this map would be misleading.
 
 * HONESTY: 
 In your notebook, you used LL84 and Pluto data from 2012 to 2016, and this plot honestly reproduced the data you processed.
