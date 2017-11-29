@@ -11,4 +11,4 @@ In this Assignment, I reviewed two classmates' plots in HW8.
 
 ## Assignment 2
 In this assignment, I team worked with Te Du,
-This is my (notebook)[https://github.com/yixuantang/PUI2017_yt1369/blob/master/HW9_yt1369/HW9_yt1369.ipynb]
+This is my [notebook](https://github.com/yixuantang/PUI2017_yt1369/blob/master/HW9_yt1369/HW9_yt1369.ipynb)
