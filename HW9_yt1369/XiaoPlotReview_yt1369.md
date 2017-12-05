@@ -25,3 +25,19 @@ In conclusion, your visualization is readable and meaningful, hope the suggestio
 Your classmate,
 
 Yixuan Tang
+
+# FBB things you missed:
+
+**estheetics** the legend in white on the black map is very distracting to the eye and leads the viewer to focus on reading instead of looking at the plot. Similarly the legend is visually distracting
+
+the low contrast of the black map makes it hard to separate NYC from the surruundings
+
+no boundaries around the boroughs and the choice of plotting points at the center of the zipcode are incompatible as we do not know what the edge points reach is
+
+**clarity / honesty** the default zoom level shows a map that cuts off datapoints at the bottom
+
+
+**clarity** not all features indicated in the legend are plotted
+
+
+10/10
